@@ -3,7 +3,7 @@ In this project, the computer randomly selects a number between 1 and 100, and t
 
 This program is a number guessing game where the computer selects a random number between 1 and 100, and the user tries to guess it. The program provides feedback on whether the user's guess is too high or too low and keeps track of the number of attempts made. The game continues until the user correctly guesses the number
 
-**1. Libraries and Namespace**
+<u>**1. Libraries and Namespace**</u>
 
 **#include <iostream>:** Includes the input-output stream library to use cin and cout for input and output operations.
 
